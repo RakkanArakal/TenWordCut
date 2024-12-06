@@ -1,0 +1,21 @@
+{
+  "size":10,
+  "word": [
+    "apple,,,苹果",
+    "banana,,,香蕉",
+    "orange,,,橙子",
+    "watermelon,,,西瓜",
+    "yellow,,,黄色",
+    "red,,,红色",
+    "blue,,,蓝色",
+    "white,,,白色",
+    "black,,,黑色"
+  ],
+  "sentence": [
+    "We propose a near-eye display optics system that supports three-dimensional mutual occlusion.,,,我们提出了一种支持三维互遮挡的近眼显示光学系统。",
+    "We propose the spectrum-tuning method that mitigates the color aberration caused by the phase modulation in OC-OSTHMDs.,,,我们提出了一种频谱调谐方法，以减轻光学中相位调制引起的颜色像差。",
+    "The proposed method uses a global modulation to the LCoS pixel array, so it requires minimum computation.,,,该方法是对LCoS像素阵列进行全局调制，因此需要最小的计算量。",
+    "Webuild a bench-top prototype of OC-OSTHMDs with multiple phase modulation parts.,,,我们建立了一个带有多相位调制部件的OC-osthmd的台式原型。",
+    "Then, the proposed method is validated in three demos, as shown in the figures.,,,然后，在三个演示中验证了所提出的方法，如图所示。"
+  ]
+}
